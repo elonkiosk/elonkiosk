@@ -2,4 +2,4 @@
 
 Inter-plannetary Kiosk System
 
-![Elon Kiosk banner image](../docs/images/Banner.png)
+![Elon Kiosk banner image](https://raw.githubusercontent.com/k-hackathon2022/.github/main/docs/images/Banner.png)
