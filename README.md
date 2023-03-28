@@ -12,7 +12,9 @@ This project was developed as part of the [K-Hackaton 2022](http://www.k-hackath
 
 ## Project Results
 
-- [Final presentation PPT](./docs/pdfs/presentation.pdf)
+### [Final presentation PPT](./docs/pdfs/presentation.pdf)
+
+### [Image Gallery](./docs/images/results/)
 
 ## Team members
 
